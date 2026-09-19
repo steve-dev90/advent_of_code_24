@@ -1,6 +1,6 @@
 
 from functools import reduce
-
+# Bla Bla
 def solve_day2(input_file):
     with open(input_file, 'r') as f:
         lines = f.readlines()
